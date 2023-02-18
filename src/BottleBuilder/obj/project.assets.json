@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "BottleParametrs/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/BottleParametrs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BottleParametrs.dll": {}
+        }
+      },
+      "KompassConnector/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7.2",
+        "compile": {
+          "bin/placeholder/KompassConnector.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KompassConnector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BottleParametrs/1.0.0": {
+      "type": "project",
+      "path": "../BottleParametrs/BottleParametrs.csproj",
+      "msbuildProject": "../BottleParametrs/BottleParametrs.csproj"
+    },
+    "KompassConnector/1.0.0": {
+      "type": "project",
+      "path": "../KompassConnector/KompassConnector.csproj",
+      "msbuildProject": "../KompassConnector/KompassConnector.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "BottleParametrs >= 1.0.0",
+      "KompassConnector >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\САПР\\src\\BottleBuilder\\BottleBuilder.csproj",
+      "projectName": "BottleBuilder",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\САПР\\src\\BottleBuilder\\BottleBuilder.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\САПР\\src\\BottleBuilder\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {
+            "C:\\Users\\Admin\\Desktop\\САПР\\src\\BottleParametrs\\BottleParametrs.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\САПР\\src\\BottleParametrs\\BottleParametrs.csproj"
+            },
+            "C:\\Users\\Admin\\Desktop\\САПР\\src\\KompassConnector\\KompassConnector.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\САПР\\src\\KompassConnector\\KompassConnector.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
