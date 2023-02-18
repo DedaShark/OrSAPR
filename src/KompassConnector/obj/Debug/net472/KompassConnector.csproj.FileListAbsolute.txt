@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\KompassConnector.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\KompassConnector.pdb
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\KAPITypes.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\Kompas6API5.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\Kompas6Constants.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\Kompas6Constants3D.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\bin\Debug\net472\KompasAPI7.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.AssemblyInfo.cs
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.csproj.CopyComplete
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.dll
+C:\Users\Admin\Desktop\САПР\src\KompassConnector\obj\Debug\net472\KompassConnector.pdb

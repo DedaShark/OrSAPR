@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\bin\Debug\net472\BottleParametrs.dll
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\bin\Debug\net472\BottleParametrs.pdb
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.dll
+C:\Users\Admin\Desktop\САПР\src\BottleParametrs\obj\Debug\net472\BottleParametrs.pdb
